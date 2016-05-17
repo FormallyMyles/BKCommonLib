@@ -1,5 +1,12 @@
-#BKCommonLib [![Build Status](https://drone.io/github.com/bergerhealer/BKCommonLib/status.png)](https://drone.io/github.com/bergerhealer/BKCommonLib/latest)
+#BKCommonLib for 1.8.8 [![Build Status](https://drone.io/github.com/bergerhealer/BKCommonLib/status.png)](https://drone.io/github.com/bergerhealer/BKCommonLib/latest)
 [Spigot Resource Page](http://www.spigotmc.org/threads/updated-bkcommonlib.69358/) | [Dev Builds](https://drone.io/github.com/bergerhealer/BKCommonLib/files)
+
+**This version works with ViaVersion properly and ProtocolLib**
+
+**Download from http://myles.us/ViaVersion/BKCommonLib.jar**
+
+**If you don't want to compile**
+
 
 This is a library-plugin system, introducing a lot of utility classes
 It also simplifies coding:

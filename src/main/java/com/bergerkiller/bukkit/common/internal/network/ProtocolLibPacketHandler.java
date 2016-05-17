@@ -260,7 +260,7 @@ public class ProtocolLibPacketHandler implements PacketHandler {
             }
 
             return ListeningWhitelist.newBuilder().priority(priority).types(comTypes)
-                    .gamePhase(GamePhase.PLAYING).options(new ListenerOptions[0]).build();
+                    .gamePhase(GamePhase.PLAYING).options(Arrays.asList(ListenerOptions.ASYNC)).build();
         }
 
         @Override
